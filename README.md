@@ -1,2 +1,2 @@
-# Fruit-Guessing-Game
-This is a simple fruit guessing game written in Python. The program randomly selects a fruit from a predefined list, and the user is prompted to guess a single letter. The aim of the project is to demonstrate basic Python concepts such as list handling, user input, conditionals, and the `random` module. 
+# Hangman Project 
+The Hangman project is a Python-based implementation of the classic word-guessing game. The objective of the game is for the player to guess a hidden word by suggesting letters within a limited number of attempts (lives). If the player correctly guesses a letter, it is revealed in the word. However, if the guess is incorrect, they lose a life. The game ends when the player either successfully guesses all the letters in the word or runs out of lives. 
